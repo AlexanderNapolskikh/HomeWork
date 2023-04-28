@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (RepSsS.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  RepSsS.cpp
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(88,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(120,52): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(121,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(147,52): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(148,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(169,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(185,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(208,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(233,52): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\RepSsS.cpp(234,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  RepSsS.vcxproj -> C:\Users\Взрослая академия\Documents\Nap_olsk_36\HomeWork\RepSsS\x64\Debug\RepTest(26.04).exe
